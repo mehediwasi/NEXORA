@@ -18,7 +18,7 @@ from datetime import datetime, timezone, timedelta
 from typing import Any, Dict, List, Optional, Tuple
 
 APP_NAME = "NEXORA NEWS AI"
-VERSION = "2.0 RED PRO"
+VERSION = " RED PRO"
 API_URL = "https://economic-calendar.tradingview.com/events"
 
 REQUEST_TIMEOUT = 15
